@@ -1,0 +1,6 @@
+C:\Users\A217990\Documents\Visual Studio 2017\Projects\Dotnet-101-OOPFundamentals\01_Value_Types_Project\bin\Debug\01_Value_Types_Project.exe.config
+C:\Users\A217990\Documents\Visual Studio 2017\Projects\Dotnet-101-OOPFundamentals\01_Value_Types_Project\bin\Debug\01_Value_Types_Project.exe
+C:\Users\A217990\Documents\Visual Studio 2017\Projects\Dotnet-101-OOPFundamentals\01_Value_Types_Project\bin\Debug\01_Value_Types_Project.pdb
+C:\Users\A217990\Documents\Visual Studio 2017\Projects\Dotnet-101-OOPFundamentals\01_Value_Types_Project\obj\Debug\01_Value_Types_Project.csproj.CoreCompileInputs.cache
+C:\Users\A217990\Documents\Visual Studio 2017\Projects\Dotnet-101-OOPFundamentals\01_Value_Types_Project\obj\Debug\01_Value_Types_Project.exe
+C:\Users\A217990\Documents\Visual Studio 2017\Projects\Dotnet-101-OOPFundamentals\01_Value_Types_Project\obj\Debug\01_Value_Types_Project.pdb

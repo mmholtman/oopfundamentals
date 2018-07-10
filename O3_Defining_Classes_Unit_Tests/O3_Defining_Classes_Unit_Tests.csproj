@@ -1,0 +1,125 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="..\packages\MSTest.TestAdapter.1.2.1\build\net45\MSTest.TestAdapter.props" Condition="Exists('..\packages\MSTest.TestAdapter.1.2.1\build\net45\MSTest.TestAdapter.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{CA6B7EF9-1EBF-4E07-BB38-95ACBD35A818}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>O3_Defining_Classes_Unit_Tests</RootNamespace>
+    <AssemblyName>O3_Defining_Classes_Unit_Tests</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <ProjectTypeGuids>{3AC096D0-A1C2-E12C-1390-A8335801FDAB};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">15.0</VisualStudioVersion>
+    <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
+    <ReferencePath>$(ProgramFiles)\Common Files\microsoft shared\VSTT\$(VisualStudioVersion)\UITestExtensionPackages</ReferencePath>
+    <IsCodedUITest>False</IsCodedUITest>
+    <TestProjectType>UnitTest</TestProjectType>
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.VisualStudio.TestPlatform.TestFramework, Version=14.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\MSTest.TestFramework.1.2.1\lib\net45\Microsoft.VisualStudio.TestPlatform.TestFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions, Version=14.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\MSTest.TestFramework.1.2.1\lib\net45\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Exercise1UnitTest.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Exercise2UnitTest.cs" />
+    <Compile Include="Exercise3UnitTest.cs" />
+    <Compile Include="Exercise4UnitTest.cs" />
+    <Compile Include="ClaimDatesUnitTest.cs" />
+    <Compile Include="Exercise5UnitTest.cs" />
+    <Compile Include="Exercise6UnitTest.cs" />
+    <Compile Include="Exercise7UnitTest.cs" />
+    <Compile Include="Exercise8UnitTest.cs" />
+    <Compile Include="Exercise9UnitTest.cs" />
+    <Compile Include="BadgeUnitTest.cs" />
+    <Compile Include="Exercise10UnitTest.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\03_Defining_Classes_Exercise_3\03_Defining_Classes_Exercise_3.csproj">
+      <Project>{AC236FA6-38B8-4BAE-A973-7BBE03CF6B7B}</Project>
+      <Name>03_Defining_Classes_Exercise_3</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\04_OOP_Encapsulation_Exercise_1\04_OOP_Encapsulation_Exercise_1.csproj">
+      <Project>{f91a43c6-2a1a-454e-b867-5814c91b2b49}</Project>
+      <Name>04_OOP_Encapsulation_Exercise_1</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\C2_Reference_Types\O2_Reference_Types.csproj">
+      <Project>{2B1E9DF8-3A3C-4B28-BC6C-00803F39AA71}</Project>
+      <Name>O2_Reference_Types</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\O3_Defining_Classes_Exercise_1\O3_Defining_Classes_Exercise_1.csproj">
+      <Project>{ed1ea686-bfcc-41a9-a756-822385818e80}</Project>
+      <Name>O3_Defining_Classes_Exercise_1</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\O3_Defining_Classes_Exercise_4\O3_Defining_Classes_Exercise_4.csproj">
+      <Project>{73611cb5-251f-4180-9249-9cd0dcd51fb5}</Project>
+      <Name>O3_Defining_Classes_Exercise_4</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\O4_OOP_Encapsulation_Exercise_2\O4_OOP_Encapsulation_Exercise_2.csproj">
+      <Project>{795fec04-b34b-4591-a0d7-700801fec76e}</Project>
+      <Name>O4_OOP_Encapsulation_Exercise_2</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\O4_OOP_Encapsulation_Exercise_3\O4_OOP_Encapsulation_Exercise_3.csproj">
+      <Project>{1c5892c8-f194-4b5d-b5ab-b4756923a972}</Project>
+      <Name>O4_OOP_Encapsulation_Exercise_3</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\O4_OOP_Encapsulation_Exercise_4\O4_OOP_Encapsulation_Exercise_4.csproj">
+      <Project>{dfe48fc0-a873-437c-b804-ab25b10f632d}</Project>
+      <Name>O4_OOP_Encapsulation_Exercise_4</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\O5_OOP_Inheritance_Exercise_2\O5_OOP_Inheritance_Exercise_2.csproj">
+      <Project>{fc18d7cf-12c6-4064-972d-d52d27ffb87c}</Project>
+      <Name>O5_OOP_Inheritance_Exercise_2</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\OO6_OOP_Polymorphism_Badges\OO6_OOP_Polymorphism_Badges.csproj">
+      <Project>{386904dc-6344-4673-a0e7-f51fb402508e}</Project>
+      <Name>OO6_OOP_Polymorphism_Badges</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\_O6_OOP_Polymorphism_Demo_4\_O6_OOP_Polymorphism_Demo_4.csproj">
+      <Project>{586953C2-2BA9-454D-9A8B-C2A457B90517}</Project>
+      <Name>_O6_OOP_Polymorphism_Demo_4</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(VSToolsPath)\TeamTest\Microsoft.TestTools.targets" Condition="Exists('$(VSToolsPath)\TeamTest\Microsoft.TestTools.targets')" />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>This project references NuGet package(s) that are missing on this computer. Use NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=322105. The missing file is {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\MSTest.TestAdapter.1.2.1\build\net45\MSTest.TestAdapter.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\MSTest.TestAdapter.1.2.1\build\net45\MSTest.TestAdapter.props'))" />
+    <Error Condition="!Exists('..\packages\MSTest.TestAdapter.1.2.1\build\net45\MSTest.TestAdapter.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\MSTest.TestAdapter.1.2.1\build\net45\MSTest.TestAdapter.targets'))" />
+  </Target>
+  <Import Project="..\packages\MSTest.TestAdapter.1.2.1\build\net45\MSTest.TestAdapter.targets" Condition="Exists('..\packages\MSTest.TestAdapter.1.2.1\build\net45\MSTest.TestAdapter.targets')" />
+</Project>

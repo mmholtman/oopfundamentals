@@ -1,0 +1,6 @@
+C:\Users\A217990\Documents\Visual Studio 2017\Projects\Dotnet-101-OOPFundamentals\O4_OOP_Encapsulation_Exercise_3\bin\Debug\O4_OOP_Encapsulation_Exercise_3.dll
+C:\Users\A217990\Documents\Visual Studio 2017\Projects\Dotnet-101-OOPFundamentals\O4_OOP_Encapsulation_Exercise_3\bin\Debug\O4_OOP_Encapsulation_Exercise_3.pdb
+C:\Users\A217990\Documents\Visual Studio 2017\Projects\Dotnet-101-OOPFundamentals\O4_OOP_Encapsulation_Exercise_3\obj\Debug\O4_OOP_Encapsulation_Exercise_3.csproj.CoreCompileInputs.cache
+C:\Users\A217990\Documents\Visual Studio 2017\Projects\Dotnet-101-OOPFundamentals\O4_OOP_Encapsulation_Exercise_3\obj\Debug\O4_OOP_Encapsulation_Exercise_3.dll
+C:\Users\A217990\Documents\Visual Studio 2017\Projects\Dotnet-101-OOPFundamentals\O4_OOP_Encapsulation_Exercise_3\obj\Debug\O4_OOP_Encapsulation_Exercise_3.pdb
+C:\Users\A217990\Documents\Visual Studio 2017\Projects\Dotnet-101-OOPFundamentals\O4_OOP_Encapsulation_Exercise_3\obj\Debug\O4_OOP_Encapsulation_Exercise_3.csprojAssemblyReference.cache

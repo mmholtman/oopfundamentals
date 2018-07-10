@@ -1,0 +1,8 @@
+C:\Users\A217990\Documents\Visual Studio 2017\Projects\Dotnet-101-OOPFundamentals\.vs\Dotnet-101-OOPFundamentals\lut\0\b\02_Reference_Types_UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\A217990\Documents\Visual Studio 2017\Projects\Dotnet-101-OOPFundamentals\.vs\Dotnet-101-OOPFundamentals\lut\0\b\02_Reference_Types_UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\A217990\Documents\Visual Studio 2017\Projects\Dotnet-101-OOPFundamentals\.vs\Dotnet-101-OOPFundamentals\lut\0\b\02_Reference_Types_UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\A217990\Documents\Visual Studio 2017\Projects\Dotnet-101-OOPFundamentals\.vs\Dotnet-101-OOPFundamentals\lut\0\b\02_Reference_Types_UnitTest\bin\Debug\02_Reference_Types_UnitTest.dll
+C:\Users\A217990\Documents\Visual Studio 2017\Projects\Dotnet-101-OOPFundamentals\.vs\Dotnet-101-OOPFundamentals\lut\0\i\02_Reference_Types_UnitTest\Debug\02_Reference_Types_UnitTest.csprojAssemblyReference.cache
+C:\Users\A217990\Documents\Visual Studio 2017\Projects\Dotnet-101-OOPFundamentals\.vs\Dotnet-101-OOPFundamentals\lut\0\i\02_Reference_Types_UnitTest\Debug\02_Reference_Types_UnitTest.csproj.CoreCompileInputs.cache
+C:\Users\A217990\Documents\Visual Studio 2017\Projects\Dotnet-101-OOPFundamentals\.vs\Dotnet-101-OOPFundamentals\lut\0\i\02_Reference_Types_UnitTest\Debug\02_Reference_Types_UnitTest.csproj.CopyComplete
+C:\Users\A217990\Documents\Visual Studio 2017\Projects\Dotnet-101-OOPFundamentals\.vs\Dotnet-101-OOPFundamentals\lut\0\i\02_Reference_Types_UnitTest\Debug\02_Reference_Types_UnitTest.dll

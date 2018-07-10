@@ -1,0 +1,6 @@
+C:\Users\A217990\Documents\Visual Studio 2017\Projects\Dotnet-101-OOPFundamentals\.vs\Dotnet-101-OOPFundamentals\lut\0\b\01_Value_Types_Project\bin\Debug\01_Value_Types_Project.exe.config
+C:\Users\A217990\Documents\Visual Studio 2017\Projects\Dotnet-101-OOPFundamentals\.vs\Dotnet-101-OOPFundamentals\lut\0\b\01_Value_Types_Project\bin\Debug\01_Value_Types_Project.exe
+C:\Users\A217990\Documents\Visual Studio 2017\Projects\Dotnet-101-OOPFundamentals\.vs\Dotnet-101-OOPFundamentals\lut\0\i\01_Value_Types_Project\Debug\01_Value_Types_Project.csproj.CoreCompileInputs.cache
+C:\Users\A217990\Documents\Visual Studio 2017\Projects\Dotnet-101-OOPFundamentals\.vs\Dotnet-101-OOPFundamentals\lut\0\i\01_Value_Types_Project\Debug\01_Value_Types_Project.csproj.CopyComplete
+C:\Users\A217990\Documents\Visual Studio 2017\Projects\Dotnet-101-OOPFundamentals\.vs\Dotnet-101-OOPFundamentals\lut\0\i\01_Value_Types_Project\Debug\01_Value_Types_Project.exe
+C:\Users\A217990\Documents\Visual Studio 2017\Projects\Dotnet-101-OOPFundamentals\.vs\Dotnet-101-OOPFundamentals\lut\0\i\01_Value_Types_Project\Debug\01_Value_Types_Project.csprojAssemblyReference.cache

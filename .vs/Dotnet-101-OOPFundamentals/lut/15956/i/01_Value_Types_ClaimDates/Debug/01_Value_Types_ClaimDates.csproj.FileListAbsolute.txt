@@ -1,0 +1,4 @@
+C:\Users\A217990\Documents\Visual Studio 2017\Projects\Dotnet-101-OOPFundamentals\.vs\Dotnet-101-OOPFundamentals\lut\0\b\01_Value_Types_ClaimDates\bin\Debug\01_Value_Types_ClaimDates.dll
+C:\Users\A217990\Documents\Visual Studio 2017\Projects\Dotnet-101-OOPFundamentals\.vs\Dotnet-101-OOPFundamentals\lut\0\i\01_Value_Types_ClaimDates\Debug\01_Value_Types_ClaimDates.csproj.CoreCompileInputs.cache
+C:\Users\A217990\Documents\Visual Studio 2017\Projects\Dotnet-101-OOPFundamentals\.vs\Dotnet-101-OOPFundamentals\lut\0\i\01_Value_Types_ClaimDates\Debug\01_Value_Types_ClaimDates.csproj.CopyComplete
+C:\Users\A217990\Documents\Visual Studio 2017\Projects\Dotnet-101-OOPFundamentals\.vs\Dotnet-101-OOPFundamentals\lut\0\i\01_Value_Types_ClaimDates\Debug\01_Value_Types_ClaimDates.dll
